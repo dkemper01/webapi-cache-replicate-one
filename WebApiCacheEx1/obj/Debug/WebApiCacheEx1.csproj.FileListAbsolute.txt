@@ -80,3 +80,4 @@ C:\Users\Dan\Documents\GitHub\webapi-cache-replicate-one\WebApiCacheEx1\obj\Debu
 C:\Users\Dan\Documents\GitHub\webapi-cache-replicate-one\WebApiCacheEx1\obj\Debug\WebApiCacheEx1.pdb
 C:\Users\Dan\Documents\GitHub\webapi-cache-replicate-one\WebApiCacheEx1\bin\System.Web.Http.Cors.dll
 C:\Users\Dan\Documents\GitHub\webapi-cache-replicate-one\WebApiCacheEx1\bin\System.Web.Http.Cors.xml
+C:\Users\Dan\Documents\GitHub\webapi-cache-replicate-one\WebApiCacheEx1\obj\Debug\WebApiCacheEx1.csprojResolveAssemblyReference.cache
